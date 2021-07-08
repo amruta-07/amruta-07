@@ -18,9 +18,9 @@
 - 😄 Pronouns: You can give one.
 - ⚡ Fun fact: I can work without music.
 -->
-**Here are some ideas to get you started:**  
+_Here are some ideas to get you started:_  
 
-I am CSE'23. my main interest lies in Web Development and DSA. I am always curious to learn something new.
+**I am CSE'23. my main interest lies in Web Development and DSA. I am always curious to learn something new.**
 
 - 🔭 I’m currently working on Web Development Projects.
 - 🌱 I’m currently learning Best Practices for DSA and CP.
@@ -30,4 +30,4 @@ I am CSE'23. my main interest lies in Web Development and DSA. I am always curio
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/amruta-misal-5a53341a8)
 - 😄 Pronouns: You can give one.
 - ⚡ Fun fact: I can work without music.
--->
+
