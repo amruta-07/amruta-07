@@ -20,7 +20,6 @@
 -->  
 
 **I am a Third Year Student. Pursuing BE in Computer science. I'm interested in the fields of web development and seeking exciting opportunities for the same.** 
-
 **I really like to explore new Domains. I am good at analysing and problem solving. 
 I am a Dedicated and hardworking member of the team.**
 
