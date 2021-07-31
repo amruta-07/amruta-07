@@ -17,10 +17,12 @@
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/amruta-misal-5a53341a8).
 - 😄 Pronouns: You can give one.
 - ⚡ Fun fact: I can work without music.
--->
-_Here are some ideas to get you started:_  
+-->  
 
-**I am CSE'23. my main interest lies in Web Development and DSA. I am always curious to learn something new.**
+**I am a Third Year Student. Pursuing BE in Computer science. I'm interested in the fields of web development and seeking exciting opportunities for the same.** 
+
+**I really like to explore new Domains. I am good at analysing and problem solving. 
+I am a Dedicated and hardworking member of the team.**
 
 - 🔭 I’m currently working on Web Development Projects.
 - 🌱 I’m currently learning Best Practices for DSA and CP.
