@@ -1,7 +1,7 @@
 # Hi there 👋
 ## I'm Amruta Misal!  
 
-[LinkedIn](https://www.linkedin.com/in/amruta-misal-5a53341a8) [YouTube](https://www.youtube.com/channel/UCo86NX-aEbGcQyFcqpEf1pA) 
+[LinkedIn](https://www.linkedin.com/in/amruta-misal-5a53341a8) 
 
 <!--
 **amruta-07/amruta-07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
