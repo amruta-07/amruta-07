@@ -19,7 +19,7 @@
 - ⚡ Fun fact: I can work without music.
 -->  
 
-**I am a Third Year Student (CSE'23) Pursuing BE at Pune University. Programmer who codes in Java(Programming Language),DSA, HTML, CSS, JS, React JS, Bootstrap.**
+**I am a Third Year Student (CSE'23) Pursuing BE at Pune University. Programmer who codes in Java(Programming Language),DSA, HTML, CSS, JS, React.js, Bootstrap.**
 **I really like to explore new Domains. I am good at analysing and problem solving. My Objective is to build a career in an organization which can provide me with the opportunity     to apply my skills for growth and profitability of the organization as well as to grow as an individual.
    I am a Dedicated and hardworking member of the team.**
 
