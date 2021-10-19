@@ -15,10 +15,10 @@
 <img src=https://img.shields.io/badge/GeeksforGeeks-%339933.svg?&style=for-the-badge&logo=GeeksforGeeks&logoColor=white alt=GeeksforGeeks style="margin-bottom: 5px;" />
 </a>  
  <a href="https://leetcode.com/amruta_07/" target="_blank">
-<img src=https://img.shields.io/badge/leetcode-%2324292e.svg?&style=for-the-badge&logo=leetcode&logoColor=white alt=leetcode style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/leetcode-%CB3837.svg?&style=for-the-badge&logo=leetcode&logoColor=white alt=leetcode style="margin-bottom: 5px;" />
 </a>  
  <a href="https://www.hackerrank.com/misalamruta08" target="_blank">
-<img src=https://img.shields.io/badge/hackerrank-%ffca28.svg?&style=for-the-badge&logo=hackerrank&logoColor=white alt=hackerrank style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/hackerrank-%3ED8B00.svg?&style=for-the-badge&logo=hackerrank&logoColor=white alt=hackerrank style="margin-bottom: 5px;" />
 </a>
 
 <!--
