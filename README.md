@@ -77,7 +77,21 @@
  <div align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amruta-07&layout=compact&theme=midnight-purple"></img>
 <img src="https://github-readme-stats.vercel.app/api?username=amruta-07&show_icons=true&theme=cobalt"></img>
+</div>  
+  
+  <div align="center">
+<img src="https://github.com/kothariji/kothariji/blob/master/github-user-contribution.svg"></img>
 </div>
+
+<div align="center">
+<img src="https://img.shields.io/github/followers/amruta-07.svg?style=social&label=Follow"></img>
+
+<img src="https://gpvc.arturio.dev/amruta-07"></img>
+</div>
+
+---
+
+Leave a ⭐ from [here](https://github.com/amruta-07/amruta-07) if you like 😁
 
 
 
