@@ -12,7 +12,7 @@
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>  
  <a href="https://auth.geeksforgeeks.org/user/misalamruta08/practice/" target="_blank">
-<img src=https://img.shields.io/badge/GeeksforGeeks-%231E77B5.svg?&style=for-the-badge&logo=GeeksforGeeks&logoColor=white alt=GeeksforGeeks style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/GeeksforGeeks-%339933.svg?&style=for-the-badge&logo=GeeksforGeeks&logoColor=white alt=GeeksforGeeks style="margin-bottom: 5px;" />
 </a>
 
 <!--
