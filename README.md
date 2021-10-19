@@ -10,7 +10,10 @@
 </a>
 <a href="https://github.com/amruta-07" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a> 
+</a>  
+ <a href="https://auth.geeksforgeeks.org/user/misalamruta08/practice/" target="_blank">
+<img src=https://img.shields.io/badge/GeeksforGeeks-%231E77B5.svg?&style=for-the-badge&logo=GeeksforGeeks&logoColor=white alt=GeeksforGeeks style="margin-bottom: 5px;" />
+</a>
 
 <!--
 **amruta-07/amruta-07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
