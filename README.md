@@ -18,7 +18,7 @@
 <img src=https://img.shields.io/badge/leetcode-%23E34F26.svg?&style=for-the-badge&logo=leetcode&logoColor=white alt=leetcode style="margin-bottom: 5px;" />
 </a>  
  <a href="https://www.hackerrank.com/misalamruta08" target="_blank">
-<img src=https://img.shields.io/badge/hackerrank-%23323330.svg?&style=for-the-badge&logo=hackerrank&logoColor=white alt=hackerrank style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/hackerrank-%777BB4.svg?&style=for-the-badge&logo=hackerrank&logoColor=white alt=hackerrank style="margin-bottom: 5px;" />
 </a>
 
 <!--
