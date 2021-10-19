@@ -13,6 +13,9 @@
 </a>  
  <a href="https://auth.geeksforgeeks.org/user/misalamruta08/practice/" target="_blank">
 <img src=https://img.shields.io/badge/GeeksforGeeks-%339933.svg?&style=for-the-badge&logo=GeeksforGeeks&logoColor=white alt=GeeksforGeeks style="margin-bottom: 5px;" />
+</a>  
+ <a href="https://leetcode.com/amruta_07/" target="_blank">
+<img src=https://img.shields.io/badge/leetcode-%339933.svg?&style=for-the-badge&logo=leetcode&logoColor=white alt=leetcode style="margin-bottom: 5px;" />
 </a>
 
 <!--
