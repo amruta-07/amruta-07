@@ -45,7 +45,7 @@
  
  🌱 I’m currently learning Best Practices for DSA and CP.  
  
-    👯 I’m looking to collaborate on any web development Project.  
+ 👯 I’m looking to collaborate on any web development Project.  
    
  🤔 I’m looking for help with Internship.  
  
