@@ -42,12 +42,9 @@
    I am a Dedicated and hardworking member of the team.**
 
 🔭 I’m currently working on Web Development Projects.  
- 
-🌱 I’m currently learning Best Practices for DSA and CP.  
- 
-👯 I’m looking to collaborate on any web development Project.  
- 
-🤔 I’m looking for help with Internship.  
+ 🌱 I’m currently learning Best Practices for DSA and CP.  
+ 👯 I’m looking to collaborate on any web development Project.  
+ 🤔 I’m looking for help with Internship.  
  
 💬 Ask me about Java.
 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/amruta-misal-5a53341a8)
