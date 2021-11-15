@@ -48,7 +48,6 @@
  💬 Ask me about Java.  
  📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/amruta-misal-5a53341a8)  
  😄 Pronouns: You can give one.  
- 
  ⚡ Fun fact: I can work without music.  
    
  <h1>Technical Skills 🛠</h1>
