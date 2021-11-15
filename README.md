@@ -43,12 +43,14 @@
 
 🔭 I’m currently working on Web Development Projects.  
  🌱 I’m currently learning Best Practices for DSA and CP.  
- 👯 I’m looking to collaborate on any web development Project.  
+  👯 I’m looking to collaborate on any web development Project.  
  🤔 I’m looking for help with Internship.  
+ 💬 Ask me about Java.  
  
-💬 Ask me about Java.
-📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/amruta-misal-5a53341a8)
-😄 Pronouns: You can give one.
+📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/amruta-misal-5a53341a8)  
+ 
+😄 Pronouns: You can give one. 
+ 
 ⚡ Fun fact: I can work without music.  
    
  <h1>Technical Skills 🛠</h1>
