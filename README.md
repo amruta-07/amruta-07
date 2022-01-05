@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Amruta Misal<img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h1>
-<h1 align="center">I am a Front End Developer❤ </h1>
+<h1 align="center">I am a Web Developer❤ </h1>
 
 --- 
 
@@ -89,7 +89,7 @@
 <img src="https://gpvc.arturio.dev/amruta-07"></img>
 </div>
 
----
+
 
 Leave a ⭐ from [here](https://github.com/amruta-07/amruta-07) if you like 😁
 
