@@ -90,7 +90,7 @@
 </div>
 
 <div align="center">
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=amruta-07&)"><img src="https://activity-graph.herokuapp.com/graph?username=amruta-07&bg_color=FFFFFF&color=000000&line=000000&point=00FF00"></div>
+ <img src="https://activity-graph.herokuapp.com/graph?username=amruta-07&bg_color=FFFFFF&color=000000&line=000000&point=00FF00"></div>
 
 
 
