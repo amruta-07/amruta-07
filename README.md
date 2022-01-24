@@ -72,14 +72,7 @@
 </p>  
  
  ---  
- 
- ### Recent Projects 👨‍💻
 
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=amruta-07&repo=
-Responsive-Food-Restaurant-Website&show_icons=true&theme=monokai"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=amruta-07&repo=
-Basic-banking-system.github.io&show_icons=true&theme=great-gatsby">
-</div>
  
    
  |[![stackoverflow card](https://readme-components.vercel.app/api?component=stackoverflow&stackoverflowid=18019642)](https://stackoverflow.com/users/18019642/amruta-misal) |<img src="https://github-readme-streak-stats.herokuapp.com/?&user=amruta-07"/>|
