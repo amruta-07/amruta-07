@@ -71,7 +71,12 @@
     <img alt="IntelliJIDEA" src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" />
 </p>  
  
- ---  
+ --- 
+ 
+ <div align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amruta-07&layout=compact&theme=midnight-purple"></img>
+<img src="https://github-readme-stats.vercel.app/api?username=amruta-07&show_icons=true&theme=cobalt"></img>
+</div>  
 
  
    
