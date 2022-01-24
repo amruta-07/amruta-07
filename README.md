@@ -89,6 +89,9 @@
 <img src="https://gpvc.arturio.dev/amruta-07"></img>
 </div>
 
+<div align="center">
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=amruta-07&)"><img src="https://activity-graph.herokuapp.com/graph?username=amruta-07&bg_color=FFFFFF&color=000000&line=000000&point=00FF00"></div>
+
 
 
 Leave a ⭐ from [here](https://github.com/amruta-07/amruta-07) if you like 😁
