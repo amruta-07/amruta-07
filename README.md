@@ -74,10 +74,10 @@
  ---  
  
    
- <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amruta-07&layout=compact&theme=midnight-purple"></img>
-<img src="https://github-readme-stats.vercel.app/api?username=amruta-07&show_icons=true&theme=cobalt"></img>
-</div>  
+ |[![stackoverflow card](https://readme-components.vercel.app/api?component=stackoverflow&stackoverflowid=16058244)](https://stackoverflow.com/users/18019642/amruta-misal) |<img src="https://github-readme-streak-stats.herokuapp.com/?&user=amruta-07"/>|
+|---|---|
+ 
+ --- 
   
   <div align="center">
 <img src="https://github.com/kothariji/kothariji/blob/master/github-user-contribution.svg"></img>
