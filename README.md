@@ -1,7 +1,5 @@
 <h1 align="center">Hi there, I'm Amruta Misal<img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h1>
-<h1 align="center">I am a Web Developer❤ </h1>
-
---- 
+<h1 align="center">I am a Web Developer❤ </h1
 
 ## Connect with me  
 <div align="center">
