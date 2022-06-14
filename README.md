@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Amruta<img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h1>
-<h1 align="center">I am a Web Developer❤ </h1
+<h1 align="center">I am a React Developer❤ </h1
  ---
 
 **Connect with me**  
@@ -26,7 +26,7 @@
  I am CSE'23. my main interest lies in Web Development and DSA. I am always curious to learn something new.
 
 
-- 🔭 I’m currently working on Web Development Projects.
+
 - 🌱 I’m currently learning Best Practices for DSA and CP.
 - 👯 I’m looking to collaborate on any web development Project.
 - 🤔 I’m looking for help with Internship.
