@@ -36,7 +36,7 @@
 - ⚡ Fun fact: I can work without music.
 -->  
 
-**I am a Third Year Student Pursuing Bachelor of engineering in computer Science and engineering at Pune University. Programmer who codes in Java.**
+**I am a Final Year Bachelor of engineering student in computer Science and engineering at Pune University. Programmer who codes in Java.**
 **I really like to explore new Domains. I am good at analysing and problem solving. My Objective is to build a career in an organization which can provide me with the opportunity     to apply my skills for growth and profitability of the organization as well as to grow as an individual.
    I am a Dedicated and hardworking member of the team.**
 
