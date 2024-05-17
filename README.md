@@ -36,15 +36,15 @@
 - ⚡ Fun fact: I can work without music.
 -->  
 
-**I am a Final Year Bachelor of engineering student in computer Science and engineering at Pune University. Programmer who codes in Java.**
-**I really like to explore new Domains. I am good at analysing and problem solving. My Objective is to build a career in an organization which can provide me with the opportunity     to apply my skills for growth and profitability of the organization as well as to grow as an individual.
-   I am a Dedicated and hardworking member of the team.**
+**I have completed my Bachelor's Degree(BE) in computer engineering at Pune University. I am good at analysing and problem solving. 
+I believe in "The Problem is not solved unless it's Done in the most optimized way".**
+**I am Passionate about writing bug-free and readable codes. Ever Ready to face new challenges. Well versed in Data structure and algorithms. Quick in learning new skills. I love to explore new Domains. My Objective is to build a career in an organization which can provide me with the opportunity to apply my skills for growth and profitability of the organization as well as to grow as an individual. I am Dedicated and hardworking member of the team.**
 
- 🔭 I’m currently working on Web Development Projects.  
+ 🔭 I’m currently working on Full Stack Development Projects.  
  🌱 I’m currently learning Best Practices for DSA and CP.  
- 👯 I’m looking to collaborate on any web development Project.  
-   🤔 I’m looking for help with Internship.  
- 💬 Ask me about Java.  
+ 👯 I’m looking to collaborate on any Full Stack Project.  
+   🤔 I’m seeking new opportunities to collaborate with companies that develop and sell their own products.  
+ 💬 Ask me about JavaScript.  
  📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/amruta-misal-5a53341a8)  
  😄 Pronouns: You can give one.  
  ⚡ Fun fact: I can work without music.  
